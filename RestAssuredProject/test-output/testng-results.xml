@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2402" started-at="2020-08-28T18:37:06 CEST" finished-at="2020-08-28T18:37:08 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2402" started-at="2020-08-28T18:37:06 CEST" finished-at="2020-08-28T18:37:08 CEST">
+      <class name="package_3.DataDrivenTest_DELETE">
+        <test-method status="PASS" signature="test_DELETE01(int)[pri:0, instance:package_3.DataDrivenTest_DELETE@56aac163]" name="test_DELETE01" duration-ms="2091" started-at="2020-08-28T18:37:06 CEST" data-provider="DataForDelete" finished-at="2020-08-28T18:37:08 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DELETE01 -->
+        <test-method status="PASS" signature="test_DELETE01(int)[pri:0, instance:package_3.DataDrivenTest_DELETE@56aac163]" name="test_DELETE01" duration-ms="46" started-at="2020-08-28T18:37:08 CEST" data-provider="DataForDelete" finished-at="2020-08-28T18:37:08 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DELETE01 -->
+        <test-method status="PASS" signature="test_DELETE01(int)[pri:0, instance:package_3.DataDrivenTest_DELETE@56aac163]" name="test_DELETE01" duration-ms="47" started-at="2020-08-28T18:37:08 CEST" data-provider="DataForDelete" finished-at="2020-08-28T18:37:08 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DELETE01 -->
+        <test-method status="PASS" signature="test_DELETE01(int)[pri:0, instance:package_3.DataDrivenTest_DELETE@56aac163]" name="test_DELETE01" duration-ms="63" started-at="2020-08-28T18:37:08 CEST" data-provider="DataForDelete" finished-at="2020-08-28T18:37:08 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DELETE01 -->
+        <test-method status="PASS" signature="test_DELETE01(int)[pri:0, instance:package_3.DataDrivenTest_DELETE@56aac163]" name="test_DELETE01" duration-ms="46" started-at="2020-08-28T18:37:08 CEST" data-provider="DataForDelete" finished-at="2020-08-28T18:37:08 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DELETE01 -->
+        <test-method status="PASS" signature="test_DELETE01(int)[pri:0, instance:package_3.DataDrivenTest_DELETE@56aac163]" name="test_DELETE01" duration-ms="63" started-at="2020-08-28T18:37:08 CEST" data-provider="DataForDelete" finished-at="2020-08-28T18:37:08 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DELETE01 -->
+      </class> <!-- package_3.DataDrivenTest_DELETE -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
